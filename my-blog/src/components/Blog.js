@@ -38,7 +38,7 @@ const mainFeaturedPost = {
 
 const featuredPosts = [
   {
-    title: 'Featured post',
+    title: 'Teams',
     date: 'Nov 12',
     description:
       'Check out the best high school basketball teams!',
@@ -49,7 +49,7 @@ const featuredPosts = [
     title: 'OTE',
     description:
       'Check Out OTE (Overtime Elite) A new facility and oppurtunity for High School players to make 6 figures while still getting looked at by scouts',
-
+    image: 'https://th.bing.com/th/id/OIP.aL4Zy5lBoMX_UsJEjVFzCAHaEK?w=286&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7',
     imageLabel: 'Image Text',
   },
 ];
